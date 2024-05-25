@@ -1,6 +1,6 @@
 # IPL-Data-Analysis
 
-Analyzing Indian Premier League Dataset
+Analyzing Indian Premier League Dataset and getting the following information:
 
 * Season
 * Winner
